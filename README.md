@@ -1,6 +1,6 @@
 ### Hello, everyone!!!
 
-<div>
+<div style="display: inline">
   <a href="https://github.com/bispodevacct">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bispodevacct&count_private=true&show_icons=true&theme=radical">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bispodevacct&layout=compact&theme=radical">
