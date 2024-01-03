@@ -29,6 +29,12 @@
       </div>
     </td>
   </tr>
+
+  <tr>
+    <th>Runtimes</th>
+    <th>Package managers</th>
+    <th>Libraries</th>
+  </tr>
 </table>
 
 <div style="display:flex;">
