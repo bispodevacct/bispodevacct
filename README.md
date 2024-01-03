@@ -58,6 +58,15 @@
   <tr>
     <th colspan="3">Frameworks</th>
   </tr>
+
+  <tr>
+    <td>
+      <div style="display:flex; gap:4rem">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+      </div>
+    </td>
+  </tr>
 </table>
 
 <div style="display:flex;">
