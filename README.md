@@ -1,8 +1,6 @@
 ## Technologies
 
-<p align="left">Hello world!</p>
-
-<table align="right">
+<table>
   <tr>
     <th>The web fundamentals</th>
     <th>Programming languages</th>
