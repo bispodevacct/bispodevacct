@@ -1,6 +1,7 @@
 ## Technologies
 
-<table style="text-align:center">
+<div style="display: flex; justify-content: center">
+<table>
   <tr>
     <th>The web fundamentals</th>
     <th>Programming languages</th>
@@ -68,6 +69,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ## Contact
 
