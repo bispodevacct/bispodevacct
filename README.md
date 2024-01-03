@@ -1,6 +1,5 @@
 ## Technologies
 
-<div style="display: flex; justify-content: center">
 <table>
   <tr>
     <th>The web fundamentals</th>
@@ -69,7 +68,6 @@
     </td>
   </tr>
 </table>
-</div>
 
 ## Contact
 
