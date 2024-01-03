@@ -1,13 +1,15 @@
-# Welcome to my profile!
+### Welcome to my profile!
 
-<div style="display: flex; gap: 4rem">
+#### Markup
+
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
+<div style="width: 100%; heightdisplay: flex; gap: 4rem">
   <div>
-    <h1>Markup</h1>
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   </div>
   
   <div>
-    ## Styling
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   </div>
   
