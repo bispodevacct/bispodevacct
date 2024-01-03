@@ -35,6 +35,25 @@
     <th>Package managers</th>
     <th>Libraries</th>
   </tr>
+
+  <tr>
+    <td>
+      <div style="display:flex; gap:4rem">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      </div>
+    </td>
+    <td>
+      <div style="display:flex; gap:4rem">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+      </div>
+    </td>
+    <td>
+      <div style="display:flex; gap:4rem">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+      </div>
+    </td>
+  </tr>
 </table>
 
 <div style="display:flex;">
