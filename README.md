@@ -1,5 +1,36 @@
 ## Welcome to my profile!
 
+<table>
+  <tr>
+    <th>The web fundamentals</th>
+    <th>Programming languages</th>
+    <th>Databases</th>
+  </tr>
+
+  <tr>
+    <td>
+      <div style="display:flex; gap:4rem">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      </div>
+    </td>
+    <td>
+      <div style="display:flex; gap:4rem">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      </div>
+    </td>
+    <td>
+      <div style="display:flex; gap:4rem">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      </div>
+    </td>
+  </tr>
+</table>
+
 <div style="display:flex;">
   <div>
   <h3>The web fundamentals</h3>
