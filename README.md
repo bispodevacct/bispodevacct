@@ -14,7 +14,6 @@
   </div>
   
   <div>
-    ## Programming
     <div style="display: flex; gap: 4rem">
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
