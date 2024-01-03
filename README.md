@@ -1,5 +1,7 @@
 ## Welcome to my profile!
-<div>
+
+<div style="display:flex;">
+  <div>
   <h3>The web fundamentals</h3>
 
   <div style="display:flex; gap:4rem">
@@ -50,7 +52,9 @@
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   </div>
+  </div>
 </div>
+
 
 <div>
   <a href="https://linkedin.com/in/marcusvbbarbosa/" target="_blank">
