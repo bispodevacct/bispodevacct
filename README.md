@@ -56,7 +56,7 @@
   </tr>
 
   <tr>
-    <th>Frameworks</th>
+    <th colspan="3">Frameworks</th>
   </tr>
 </table>
 
