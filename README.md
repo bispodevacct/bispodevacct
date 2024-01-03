@@ -54,6 +54,10 @@
       </div>
     </td>
   </tr>
+
+  <tr>
+    <th>Frameworks</th>
+  </tr>
 </table>
 
 <div style="display:flex;">
