@@ -1,6 +1,6 @@
 ## Technologies
 
-<table width="100px">
+<table width=100px>
   <tr>
     <th>The web fundamentals</th>
     <th>Programming languages</th>
