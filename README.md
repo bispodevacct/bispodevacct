@@ -69,62 +69,6 @@
   </tr>
 </table>
 
-<div style="display:flex;">
-  <div>
-  <h3>The web fundamentals</h3>
-
-  <div style="display:flex; gap:4rem">
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  </div>
-
-  <h3>Programming languages</h3>
-
-  <div style="display:flex; gap:4rem">
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  </div>
-
-  <h3>Runtimes</h3>
-
-  <div style="display:flex; gap:4rem">
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  </div>
-
-  <h3>Package managers</h3>
-
-  <div style="display:flex; gap:4rem">
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  </div>
-</div>
-
-<div>
-  <h3>Libraries</h3>
-
-  <div style="display:flex; gap:4rem">
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  </div>
-
-  <h3>Frameworks</h3>
-
-  <div style="display:flex; gap:4rem">
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  </div>
-
-  <h3>Databases</h3>
-
-  <div style="display:flex; gap:4rem">
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  </div>
-  </div>
-</div>
-
-
 <div>
   <a href="https://linkedin.com/in/marcusvbbarbosa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
