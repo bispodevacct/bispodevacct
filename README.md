@@ -61,7 +61,7 @@
 
   <tr>
     <td colspan="3">
-      <div style="display:flex; gap:4rem">
+      <div style="display:flex; justify-content:space-between">
         <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
         <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
       </div>
