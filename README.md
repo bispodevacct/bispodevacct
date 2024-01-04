@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 ## Technologies
 
 <table>
@@ -66,6 +68,7 @@
         <img width="40" color="white" alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
         <img width="40" alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
         <img width="40" alt="ExpressJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+        <i class="devicon-nextjs-plain-wordmark"></i>
       </div>
     </td>
   </tr>
