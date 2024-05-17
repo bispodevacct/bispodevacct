@@ -69,7 +69,6 @@
     <td>
       <div style="display:flex; gap:4rem">
         <img width="40" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-        <img width="40" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
       </div>
     </td>
   </tr>
