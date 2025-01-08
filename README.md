@@ -24,7 +24,7 @@
     <td>
       <div style="display:flex; gap:4rem">
         <a href="[https://www.typescriptlang.org/](https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170)" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+          <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
         </a>
         <a href="https://www.python.org/" target="_blank">
           <img width="40" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -63,7 +63,7 @@
         <img width="40" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
       </div>
       <div style="display:flex; gap:4rem">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" />
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" />
       </div>
     </td>
     <td>
