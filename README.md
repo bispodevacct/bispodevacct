@@ -23,14 +23,11 @@
     </td>
     <td>
       <div style="display:flex; gap:4rem">
-        <a href="https://www.typescriptlang.org/" target="_blank">
-          <img width="40" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+        <a href="[https://www.typescriptlang.org/](https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170)" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
         </a>
         <a href="https://www.python.org/" target="_blank">
           <img width="40" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-        </a>
-        <a href="https://dart.dev/" target="_blank">
-          <img width="40" alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
         </a>
       </div>
     </td>
@@ -65,6 +62,9 @@
       <div style="display:flex; gap:4rem">
         <img width="40" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
       </div>
+      <div style="display:flex; gap:4rem">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" />
+      </div>
     </td>
     <td>
       <div style="display:flex; gap:4rem">
@@ -81,7 +81,6 @@
     <td colspan="3">
       <div style="display:flex; gap:4rem">
         <img width="40" color="white" alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-        <img width="40" alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
         <img width="40" alt="ExpressJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
       </div>
     </td>
@@ -97,12 +96,7 @@
   <a href="https://www.instagram.com/vinicius.bispoo/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="mailto:bispodevacct@gmail.com" target="_blank">
+  <a href="mailto:marcus.bispo20@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <!--
-  <a href="https://wa.me/qr/TECQPVOSZVBLG1" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-  -->
 </div>
