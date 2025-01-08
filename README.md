@@ -61,8 +61,6 @@
     <td>
       <div style="display:flex; gap:4rem">
         <img width="40" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-      </div>
-      <div style="display:flex; gap:4rem">
         <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" />
       </div>
     </td>
